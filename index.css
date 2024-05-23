@@ -1243,9 +1243,11 @@
     height: 1024px;
     background: linear-gradient(144.62deg, #0b2c77 10.4%, #000b24 46.5%, #0a2564 89%);
     width: 1440px;
-    text-align: left;
+    text-align: center;
     font-size: 32px;
     color: #4eb1dc;
     font-family: Inter;
+    margin-left: auto;
+    margin-right: auto;
 }
 
